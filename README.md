@@ -29,7 +29,8 @@ print("Square root of the number:",newton_method(a))
 ```
 
 ## Output:
-![gcd of two number](gcd.png)
+![out1](https://github.com/Ashwathm12/Square-root-of-a-number/assets/138849225/bc65d8c4-bd10-481c-8957-497857efef2e)
+
 
 
 ## Result:
